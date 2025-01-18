@@ -1,4 +1,4 @@
-# Driver_drowsiness_system_CNN
+# Drowsiness Detection
 
 This system is designed to detect driver drowsiness using Convolutional Neural Networks (CNN) in Python with the help of OpenCV. Its primary objective is to reduce the occurrence of accidents on the road by detecting if the driver is becoming drowsy and issuing an alarm as a warning.
 
